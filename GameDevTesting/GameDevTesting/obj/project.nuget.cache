@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3nzS4d3Jy+8tXcUAB4JEFE5D3cigNwP/TcOy5gUfRPDzSeWb6XPAUADekI1WHPYqrBzYJ/5CAnfmnUX1JMwkg==",
+  "success": true,
+  "projectFilePath": "/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/GameDevTesting.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivandoronin/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

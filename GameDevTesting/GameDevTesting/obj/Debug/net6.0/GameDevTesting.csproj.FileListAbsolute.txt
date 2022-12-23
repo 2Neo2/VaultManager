@@ -1,0 +1,17 @@
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/GameDevTesting
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/GameDevTesting.deps.json
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/GameDevTesting.runtimeconfig.json
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/GameDevTesting.dll
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/GameDevTesting.pdb
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.csproj.AssemblyReference.cache
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.AssemblyInfoInputs.cache
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.AssemblyInfo.cs
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.csproj.CopyComplete
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.dll
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/refint/GameDevTesting.dll
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.pdb
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/GameDevTesting.genruntimeconfig.cache
+/Users/ivandoronin/RiderProjects/GameDevTesting/GameDevTesting/obj/Debug/net6.0/ref/GameDevTesting.dll
