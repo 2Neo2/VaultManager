@@ -28,6 +28,6 @@
 Метод GetNodeByFilePath(string filePath) ошибка на 74 строке.
 <img width="1325" alt="image" src="https://user-images.githubusercontent.com/64828077/209264861-57d30c25-2f8a-40e4-b373-2281c8b44ff9.png">
 
-Метод SaveToDirectory(string pathToDirectory) сохраняет файл и записывает в него json
+Метод SaveToDirectory(string pathToDirectory) сохраняет файл и записывает в него json.
 <img width="1325" alt="image" src="https://user-images.githubusercontent.com/64828077/209265207-65c3ba65-ea15-452d-b353-5b826f47e631.png">
 
