@@ -19,7 +19,7 @@
 # Часть 5 (Ошибки и выводы)
 В целом программа реализует весь функционал, но есть одно "но".
   
-При создании > 3 файлов рандомно, при десериализации в методе UploadFilesFromDirectory(string pathToDirectory), возникает искоючение при десериализации  Newtonsoft.Json.JsonReaderException (After parsing a value an unexpected character was encountered: 8. Path 'age', line 1, position 166.).
+При создании > 3 файлов рандомно, в методе UploadFilesFromDirectory(string pathToDirectory) возникает искоючение при десериализации  Newtonsoft.Json.JsonReaderException (After parsing a value an unexpected character was encountered: 8. Path 'age', line 1, position 166.).
 Как это исправить я, к сожалению, не догодался, видимо проблема при сериализаци, возможно стоит добавить настройку (Formatting), однако это тоже не помогло :(((
   
 Метод UploadFilesFromDirectory(string pathToDirectory), ошибка возникает на 56 строке при вызове метода GetNodeByFilePath(string filePath).
